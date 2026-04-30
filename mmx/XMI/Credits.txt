@@ -1,0 +1,33 @@
+Based on MIDI files Arranged by:
+BOSS - MMX0C.MID - Arranged by Gigasoft
+BOSS APP - VILEINTRO.MID - Arranged by Zero_X0
+CITY - MMX0B.MID - Arranged by Gigasoft
+DR_2 - Dr Light's Theme - Composed By Zuon94/Caulin Stephens-Lucas
+ENDING - ENDING1.MID - Aranged by Jarel Jones
+FACTORY - MMXFLAME.MID - Arranged by Jarron Woodsorrel
+FOREST - MMXSTING.MID - Arranged by Jarron Woodsorrel
+LABO - MMX1F.MID - Arranged by Zero Beats
+LAST - BOSSSTAGE4.MID - Arranged by Zero_X0
+OCEAN - MMXOCTO-2.MID - Arranged by Jarron Woodsorrel
+OP_BOSS - Vile!.MID - Arranged by Jarel Jones
+OP_TALK - MMX-_Megaman_&_Zero.MID - Arranged by Jorge D. Fuentes
+OPENING - MMXHIWAY.MID - Arranged by Brett Fairbanks
+PASS - MMXPSWRD.MID - Arranged by Jarron Woodsorrel
+POWER - SPARKMANDRILL7.MID - Arranged by SinclairC
+ROAD - MMXARMOR.MID - Arranged by Jarron Woodsorrel
+S_CLR - CLEAR.MID - Arranged by Zero_X0
+S_DEMO - SNES_MMX_Boss_Chosen_V1 - Arranged by V-King formerly known as bingo101
+S_SEL - MAVERICKSELECT.MID - Arranged by Jarel Jones
+S_SELB - SIGMASELECT.MID - Arranged by Jarel Jones
+SHIGMA_A - MMX1A.MID - Arranged by Gigasoft
+SHIGMA_B - SIGMABATTLE2 - Arranged by Jarel Jones
+SKY - megaman_x1_-_storm_eagle_stage.MID - Arranged by Moccy
+SNOW - MMXCHILL.MID - Arranged by Jarron Woodsorrel
+ST_B_PRE - BATTLEINTRO.MID - Arranged by Zero_X0
+ST_BOSS - BATTLETHEME.MIS - Arranged by Jarel Jones
+STAFF - MMX20.MID - Arranged by Gigasoft
+TITLE - MMXMAIN.MID - Arranged by Jarron Woodsorrel
+TOWER - BOOMERKUWANGER.MID - Arranged by Jarel Jones
+UNDER - SIGMA1X1.MID - Arranged by Stephen "Strife" DiDuro
+WEP_GET - WEAPONSTATS.MID - Arranged by Jarel Jones
+ZERO - ZEROTHEME1.MID - Arranged by Jarel Jones
