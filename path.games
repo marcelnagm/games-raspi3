@@ -1,0 +1,7 @@
+dosbox -c "mount c ./gta" -c "c:" -c "GTADOS.BAT" ;"GTA"
+dosbox -c "mount c ./loom" -c "c:" -c "LOOM.EXE";"LOOM"
+dosbox -c "mount c ./mmx" -c "c:" -c "MMX.BAT" ;"MEGAMAN"
+dosbox -c "mount c ./monkey" -c "c:" -c "MONKEY.EXE";"MONKEY ISLAND"
+dosbox -c "mount c ./pop2" -c "c:" -c "PRINCE.EXE";"PRINCE OF PERSIA 2"
+dosbox -c "mount c ./sf2" -c "c:" -c "SSF2T.BAT";"STREET FIGHTER 2"
+dosbox -c "mount c ./ttd" -c "c:" -c "TYCOON.EXE";"TRANSPORT TYCOOON"
