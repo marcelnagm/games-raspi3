@@ -1,5 +1,6 @@
-#!/bin/bash
 
+#!/bin/bash
+git clone https://github.com/marcelnagm/games-raspi3.git
 # Configurações de Caminho
 ARQUIVO_GAMES="path.games"
 DIR_REPO=$(pwd)
