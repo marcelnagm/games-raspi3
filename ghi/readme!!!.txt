@@ -1,0 +1,3 @@
+Use SETUP to configure the controls! This is important since you move through menus with ACCELERATE and BRAKE keys. I've set it up so that ALTGR is BRAKE and CTRL is ACCELERATE but you can change it. If the game fails to start(error occurs) on the point of loading the music and sfx files(game startup screen) remove yourself from that window(click on some other active window) since that helps. Wierd, but it does.
+
+Document added by Lachie D.(Not written by the designer) 12.3.2005

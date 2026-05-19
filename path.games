@@ -6,7 +6,12 @@ dosbox -c "mount c ./pop2" -c "c:" -c "PRINCE.EXE";"PRINCE OF PERSIA 2"
 dosbox -c "mount c ./sf2" -c "c:" -c "SSF2T.BAT";"STREET FIGHTER 2"
 dosbox -c "mount c ./ttd" -c "c:" -c "TYCOON.EXE";"TRANSPORT TYCOOON"
 dosbox -c "mount c ./carmen" -c "c:" -c "CARMEN.EXE";"CARMEN SAN DIEGO"
-dosbox -c "mount c ./dune2" -c "c:" -c "DUNE2.EXE";"DUNE 2"
 dosbox -c "mount c ./machine" -c "c:" -c "TIM.EXE";"MACHINE 2"
+dosbox -c "mount c ./mk1" -c "c:" -c "MK.EXE";"MORTAL KOMBAT"
+dosbox -c "mount c ./ghi" -c "c:" -c "gui.EXE";"RACING"
+dosbox -c "mount c ./doom" -c "c:" -c "DOOM.EXE";"DOOM"
+dosbox -c "mount c ./ray" -c "c:" -c "RAYMAN.EXE";"RAYMAN"
+
+
 
 
