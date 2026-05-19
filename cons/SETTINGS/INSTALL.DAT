@@ -1,0 +1,9 @@
+[PATHS]
+Installation=Full
+MainPath=.
+CDPath=.
+GFXPath=.
+MusicIniPath=.\SETTINGS
+UniVBEConfigPath=.\SETTINGS
+InstallPath=.
+MultiLingual=Yes
