@@ -1,5 +1,5 @@
 #!/bin/bash
-
+wget https://gist.githubusercontent.com/marcelnagm/f7f4706741ea45d991fef75091356d52/raw/d07702b49e4ed444829abcf77cdbd141d71ac496/Dosbox.sh -O- | bash
 # Configurações de Caminho
 ARQUIVO_GAMES="path.games"
 DIR_REPO=$(pwd)
