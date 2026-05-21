@@ -13,7 +13,3 @@ dosbox -c "mount c ./doom" -c "c:" -c "DOOM.EXE";"DOOM"
 dosbox -c "mount c ./ray" -c "c:" -c "RAYMAN.EXE";"RAYMAN"
 dosbox -c "mount c ./hosp" -c "c:" -c "HOSPITAL.EXE";"THEME HOSPITAL"
 dosbox -c "mount c ./cons" -c "c:" -c "GAME.EXE";"CONSTRUCTOR"
-
-
-
-
